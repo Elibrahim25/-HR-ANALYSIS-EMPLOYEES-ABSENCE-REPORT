@@ -13,7 +13,7 @@ No missing value and no duplicate value.
 ## Tools Employed
 
   - Excel - Data Cleaning
-  - Power BI
+  - Power BI -Creating Visuals
 
 ## Data Cleaning
 
